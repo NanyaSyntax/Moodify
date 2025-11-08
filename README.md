@@ -49,6 +49,7 @@ Moodify is designed for:
 - **Data Processing:** Python (sentiment + tempo analysis)
 - **Spotify Access:** Spotify Web API (OAuth login)
 - **Database:** MongoDB or PostgreSQL
+- **Visualization:** Chart.js or Recharts
 
 
 ---
