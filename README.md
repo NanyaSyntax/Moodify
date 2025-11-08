@@ -43,6 +43,18 @@ Moodify is designed for:
 
 ---
 
+##  Product Preview (Prototype Wireframe)
+![Moodify Dashboard](./moodify_spotify_style_mockup.png)
+
+##  Emotional Timeline (Prototype Preview)
+![Moodify Emotional Timeline](./moodify_emotional_timeline_mockup.png)
+
+##  Top Songs Influencing Mood (Prototype)
+![Moodify Top Songs](./moodify_top_songs_mood_influence_mockup.png)
+
+
+---
+
 ##  Technologies Used (Planned)
 - **Frontend:** React / Next.js
 - **Backend:** Node.js + Express

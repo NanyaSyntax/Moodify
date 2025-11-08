@@ -18,6 +18,12 @@ Frontend UI
 
 ---
 
+## Architecture Diagram
+
+![System Architecture](./images/architecture.png)
+
+---
+
 ## 🎨 Frontend (Client Layer)
 **Tech Stack:** React / Next.js, TailwindCSS, Chart.js  
 
